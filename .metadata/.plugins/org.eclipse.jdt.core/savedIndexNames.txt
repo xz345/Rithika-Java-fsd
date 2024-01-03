@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+C:\Users\sabis\Downloads\phase 3\.metadata\.plugins\org.eclipse.jdt.core
+2105024551.index
+2864516150.index
+3171952192.index
+4090816592.index
+2249058044.index
+3404946529.index
+570915288.index
+2144278299.index
+1865797976.index
